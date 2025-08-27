@@ -92,5 +92,5 @@ You significantly improved your scene by adding context (table, plate, teapot) a
 The author, Christopher B. Del Gesso was assisted in part by AI models (listed below). The author reviewed, edited, and revised the assignment based on feedback from the models. The relevant credits and the extent to which those models were used are annotated below. The author affirms that anything not listed below is the author's own work.
 
 ## Credits
-Claude 4 Sonnet (Anthropic). (2025). Assignment 1.06 checklist and assessment creation. *Checklist and Assignment Evaluation*.
+Claude 4 Sonnet (Anthropic). (2025). Assignment 1.06 checklist and assessment creation. *Checklist, Assignment Evaluation, git commits*.
 GPT (OpenAI). (2025). Assignment 1.06 grading evaluation. *3DS Max Primitive Objects Assessment*.
