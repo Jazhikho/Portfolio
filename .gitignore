@@ -27,3 +27,6 @@ $RECYCLE.BIN/
 
 # Log files
 *.log
+
+# Large image files
+*.exr

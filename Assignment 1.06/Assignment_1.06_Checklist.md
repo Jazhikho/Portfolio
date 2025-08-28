@@ -85,12 +85,12 @@ Objects are placed logically, the plate anchors the donuts, and the table provid
 
 You significantly improved your scene by adding context (table, plate, teapot) and cast shadows. The project meets all the assignment requirements and shows good modelling and material use. To reach an “excellent” level, focus on finer material detail (bump/roughness maps, subtle reflections), sophisticated light rigging, and a more photographic render setup (soft area lights, depth of field).  
 
-**Final Score:** **76 / 100** – Solid B level work with clear improvements over the original.  
+**Final Score:** **76 / 100** – Solid B level work.  
 
 ---
 ## AI Use Submission Statement
 The author, Christopher B. Del Gesso was assisted in part by AI models (listed below). The author reviewed, edited, and revised the assignment based on feedback from the models. The relevant credits and the extent to which those models were used are annotated below. The author affirms that anything not listed below is the author's own work.
 
 ## Credits
-Claude 4 Sonnet (Anthropic). (2025). Assignment 1.06 checklist and assessment creation. *Checklist, Assignment Evaluation, git commits*.
-GPT (OpenAI). (2025). Assignment 1.06 grading evaluation. *3DS Max Primitive Objects Assessment*.
+Claude 4 Sonnet (Anthropic). (2025). Assignment 1.06 checklist and assessment creation. *Checklist, git commits*.
+GPT (OpenAI). (2025). Assignment 1.06 grading evaluation. *3DS Max Primitive Objects Assessment, workflow troubleshooting*.
