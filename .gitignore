@@ -30,3 +30,24 @@ $RECYCLE.BIN/
 
 # Large image files
 *.exr
+
+# Large texture files (4K and above)
+*4K-PNG_NormalDX.png
+*4K-PNG_NormalGL.png
+*_4K-*_Normal*.png
+*.png.tx
+
+# All texture files and materials
+*.png
+*.jpg
+*.jpeg
+*.tiff
+*.tga
+*.exr
+*.hdr
+*.mtlx
+*.usdc
+*.usd
+
+# Files exceeding GitHub's 100MB limit
+*_sRGB_ACEScg.png.tx
