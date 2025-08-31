@@ -48,9 +48,9 @@ Create and submit an original complex scene that demonstrates mastery of 2D spli
 
 ## Project Assessment
 
-**Final Score: 93/100** *(Regraded)*
+**Final Score: 93/100**
 
-### Evaluation Summary - Assignment 1.07 Regraded Evaluation
+### Evaluation Summary - Assignment 1.07 Evaluation
 
 The submission includes two distinct scenes constructed with 2D spline techniques:
 
@@ -136,11 +136,10 @@ The submission includes two distinct scenes constructed with 2D spline technique
   - License: Creative Commons CC0 (free for any use, including commercial)
   - Available formats: 1K-8K resolution in JPG and PNG formats
 
-- **Plastic 005** - PBR texture from [ambientCG](https://ambientcg.com/view?id=Plastic005)
-  - Source: ambientCG - Free PBR materials under CC0 license
-  - Description: Smooth plastic texture for cord material
-  - License: Creative Commons CC0 (free for any use, including commercial)
-  - Available formats: 1K-8K resolution in JPG and PNG formats
+- **HDRI Element** - Environmental lighting element used for lamp scene illumination
+  - Source: 3ds Max built-in HDRI lighting system
+  - Description: HDRI-based lighting setup for realistic lamp scene rendering
+  - Application: Provides environmental lighting and reflections for lamp materials
 
 ### HDRI Environments
 - **Evening Sky HDRI 037 A** - HDRI environment from [ambientCG](https://ambientcg.com/view?id=EveningSkyHDRI037A)
@@ -160,11 +159,11 @@ The submission includes two distinct scenes constructed with 2D spline technique
 ### Core Spline Modeling Requirements ✓
 - [x] **Create 2D spline profile for lamp base** - Spline profiles drawn for both fountain bowls and lamp base
 - [x] **Apply Lathe modifier to generate lamp geometry** - Used to revolve fountain bowls, central stem, and lamp base
-- [x] **Create lamp shade using Extrude/Bevel modifier** - Extrusion and bevel operations formed lamp shade's ridged surface and fountain's rim
+- [x] **Create lamp shade using Extrude/Taper/Shell modifier** - Extrusion, taper, and shell operations formed lamp shade's ridged surface
 - [x] **Create complex spline-based scenes** - Built complete courtyard and lamp environments
 
 ### Optional Advanced Modifiers ✓
-- [x] **Apply Taper modifier as needed** - Used where appropriate (originally marked as not necessary but confirmed as implemented)
+- [x] **Apply Taper modifier as needed** - Used where appropriate
 - [x] **Use Shell modifier for lamp shade** - Lamp shade exhibits thickness consistent with shell modifier application
 - [x] **Create renderable spline surface for cord** - Lamp scene features curved cord rendered from spline
 
@@ -183,6 +182,8 @@ The submission includes two distinct scenes constructed with 2D spline technique
 ### Project Deliverables ✓
 - [x] **3ds Max scene file** - QuietCourtyard.max
 - [x] **Final rendered output** - Courtyard.png
+- [x] **3ds Max scene file** - lamp.maxs
+- [x] **Final rendered output** -lamp.png
 - [x] **Resource documentation** - Comprehensive texture and HDRI citations
 
 
