@@ -1,6 +1,6 @@
 # Assignment 1.07: Working with 2D Splines
 
-**Due:** No Due Date  
+**Due:** 31 August 2025
 **Points:** 100  
 **Submission:** Text entry box, website URL, media recording, or file upload
 
@@ -136,7 +136,7 @@ The submission includes two distinct scenes constructed with 2D spline technique
   - License: Creative Commons CC0 (free for any use, including commercial)
   - Available formats: 1K-8K resolution in JPG and PNG formats
 
-- **HDRI Element** - Environmental lighting element used for lamp scene illumination
+- **HDRI Element 003** - Lamp lighting element used for lamp scene illumination
   - Source: 3ds Max built-in HDRI lighting system
   - Description: HDRI-based lighting setup for realistic lamp scene rendering
   - Application: Provides environmental lighting and reflections for lamp materials
