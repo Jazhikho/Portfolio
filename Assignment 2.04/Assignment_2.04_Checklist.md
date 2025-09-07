@@ -142,5 +142,29 @@ Create a 3D sofa using your preferred modeling techniques. Feel free to follow d
 ## AI Use Submission Statement
 The author, Christopher B. Del Gesso was assisted in part by AI models (listed below). The author reviewed, edited, and revised the assignment based on feedback from the models. The relevant credits and the extent to which those models were used are annotated below. The author affirms that anything not listed below is the author's own work.
 
+## Resources Used
+
+### Textures & Materials
+- **Leather 005** - PBR texture from [ambientCG](https://ambientcg.com/view?id=Leather005)
+  - Source: ambientCG - Free PBR materials under CC0 license
+  - Description: Red leather texture with smooth surface finish
+  - License: Creative Commons CC0 (free for any use, including commercial)
+  - Available formats: 1K-4K resolution in JPG and PNG formats
+  - Technique: Procedural
+  - Tags: Leather, Red, Smooth
+
+### Reused Materials from Assignment 1.07
+- **Wood 051** - PBR texture from [ambientCG](https://ambientcg.com/view?id=Wood051)
+  - Source: ambientCG - Free PBR materials under CC0 license
+  - Description: Natural wood texture for sofa frame and structural elements
+  - License: Creative Commons CC0 (free for any use, including commercial)
+  - Available formats: 1K-8K resolution in JPG and PNG formats
+
+- **Metal 007** - PBR texture from [ambientCG](https://ambientcg.com/view?id=Metal007)
+  - Source: ambientCG - Free PBR materials under CC0 license
+  - Description: Metal texture for sofa hardware and decorative elements
+  - License: Creative Commons CC0 (free for any use, including commercial)
+  - Available formats: 1K-8K resolution in JPG and PNG formats
+
 ## Credits
 Claude 4 Sonnet (Anthropic). (2025). Assignment 2.04 checklist creation. *Checklist formatting, rubric adaptation, modeling guidelines, furniture modeling techniques*.

@@ -1,0 +1,62 @@
+# Blender 4.5.2 LTS MTL File: 'Sofa.blend'
+# www.blender.org
+
+newmtl Buttons
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+Pr 0.500000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd D:/Portfolio/Assignment 1.07/Metal007/Metal007_4K-PNG_Color.png
+map_Pm D:/Portfolio/Assignment 1.07/Metal007/Metal007_4K-PNG_Metalness.png
+
+newmtl Couch
+Ks 0.194444 0.194444 0.194444
+Ke 0.000000 0.000000 0.000000
+Ni 1.300000
+d 1.000000
+illum 2
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd Leather005/Leather005_4K-PNG_Color.png
+map_Pr Leather005/Leather005_4K-PNG_Roughness.png
+
+newmtl Couch.001
+Ks 0.194444 0.194444 0.194444
+Ke 0.000000 0.000000 0.000000
+Ni 1.300000
+d 1.000000
+illum 2
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd Leather005/Leather005_4K-PNG_Color.png
+map_Pr Leather005/Leather005_4K-PNG_Roughness.png
+
+newmtl Couch.002
+Ks 0.194444 0.194444 0.194444
+Ke 0.000000 0.000000 0.000000
+Ni 1.300000
+d 1.000000
+illum 2
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd Leather005/Leather005_4K-PNG_Color.png
+map_Pr Leather005/Leather005_4K-PNG_Roughness.png
